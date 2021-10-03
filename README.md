@@ -1,6 +1,6 @@
 # UpsilonDfuInfos
 
-Informations en rapport avec le dfu. Si vous êtes ici, c'est que vous avez enclenché le mécanisme retirant temporairement la protection du DFU sur Upsilon.
+Informations en rapport avec le DFU. Si vous êtes ici, c'est que vous avez enclenché le mécanisme retirant temporairement la protection du DFU sur Upsilon.
 
 ## Que fait cette protection?
 
