@@ -1,12 +1,12 @@
 # UpsilonDfuInfos
 
-Informations en rapport avec le DFU. Si vous êtes ici, c'est que vous avez enclenché le mécanisme retirant temporairement la protection du DFU sur Upsilon.
+Information related to the DFU. If you are here, you have activated the mechanism temporarily removing the DFU protection from Upsilon.
 
-## Que fait cette protection?
+## What does this protection do?
 
-Depuis la mise à jour 16 d'Espilon (mises à jour depuis le site officiel numworks), votre calculatrice se retrouve verrouillée et vous vous retrouverez avec une multitude de désagréments. Ainsi, pour éviter toute mise à jour involontaire, nous avons mis en place ce mécanisme bloquant les mises à jour non reconnues. Toutefois, si vous savez ce que vous faites et que vous êtes sûr de ce que vous faites, vous devez appuyer 3 fois sur le bouton 6 dans le menu et ensuite brancher la calculatrice qui sera alors sans protection.
+Since Espilon update 16 (updates from the official website numworks), your calculator is locked and you will end up with a multitude of inconveniences. Thus, to avoid any unintentional update, we have implemented this mechanism to block unrecognized updates. However, if you know what you are doing and you are sure of what you are doing, you can press button 6 3 times in the menu or go in the usb settings and then plug in the calculator which will then be unprotected.
 
-## Liens :
-Article NumWorks : https://www.numworks.com/fr/blog/logiciel-securise/
+## Links :
+NumWorks article : https://www.numworks.com/fr/blog/logiciel-securise/
 
-Article plus complet : https://tiplanet.org/forum/viewtopic.php?f=97&t=24968&p=261770#EOTB1
+More complete article : https://tiplanet.org/forum/viewtopic.php?f=97&t=24968&p=261770#EOTB1
